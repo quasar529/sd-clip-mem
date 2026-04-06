@@ -1,5 +1,7 @@
 # Memorization In Stable Diffusion Is Unexpectedly Driven by CLIP Embeddings
 
+🔥 Accepted to CVPR 2026 Findings.
+
 ## Setup
 
 ```bash
